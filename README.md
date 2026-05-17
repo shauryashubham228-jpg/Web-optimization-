@@ -1,4 +1,4 @@
-# ecommerce — Webpage Optimization Roadmap
+# Ecommerce — Webpage Optimization Roadmap
 
 ## Project Overview
 
