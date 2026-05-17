@@ -1,4 +1,4 @@
-# Lagorii Kids — Webpage Optimization Roadmap
+# ecommerce — Webpage Optimization Roadmap
 
 ## Project Overview
 
